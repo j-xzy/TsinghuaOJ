@@ -1,0 +1,7 @@
+﻿  Zuma.cpp
+c:\users\leovo\documents\learn\数据结构\tsinghuaoj_dsa\zuma\zuma.cpp(108): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\leovo\documents\learn\数据结构\tsinghuaoj_dsa\zuma\zuma.cpp(108): note: placeholders and their parameters expect 3 variadic arguments, but 2 were provided
+  c:\users\leovo\documents\learn\数据结构\tsinghuaoj_dsa\zuma\zuma.cpp(108): note: the missing variadic argument 3 is required by format string '%c'
+  c:\users\leovo\documents\learn\数据结构\tsinghuaoj_dsa\zuma\zuma.cpp(108): note: this argument is used as a buffer size
+  Zuma.vcxproj -> C:\Users\leovo\Documents\Learn\数据结构\TsinghuaOJ_DSA\Debug\Zuma.exe
+  Zuma.vcxproj -> C:\Users\leovo\Documents\Learn\数据结构\TsinghuaOJ_DSA\Debug\Zuma.pdb (Full PDB)
